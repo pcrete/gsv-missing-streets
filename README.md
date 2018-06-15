@@ -6,15 +6,15 @@ The **Street View API metadata** requests provide data about Street View panoram
 ### Example of metadata
 * street view available
 ```json
-{'copyright': '© Google, Inc.',
- 'date': '2016-06',
- 'location': {'lat': 8.601592312833652, 'lng': 99.80298133747272},
- 'pano_id': 'u5Hn4GeNtMtk1EvLOa-N5w',
- 'status': 'OK'}
+{"copyright": "© Google, Inc.",
+ "date": "2016-06",
+ "location": {"lat": 8.601592312833652, "lng": 99.80298133747272},
+ "pano_id": "u5Hn4GeNtMtk1EvLOa-N5w",
+ "status": "OK"}
 ```
 * street view *unavailable*
 ```json
-{'status': 'ZERO_RESULTS'}
+{"status": "ZERO_RESULTS"}
 ```
 
 ### Example of missing streets
