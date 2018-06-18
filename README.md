@@ -18,7 +18,9 @@ The **Street View API metadata** requests provide data about Street View panoram
 ```
 
 ### Example of missing streets
-* Original points (left) & Missing Points (right)
-![Example of missing streets](screenshot.png) 
+* Original points (left) & Missing Points (right), version 1
+![Example of missing streets](pics/missing-points.png)
 
-**Ref:** [Gooogle street view matedata api](https://developers.google.com/maps/documentation/streetview/metadata) 
+* version2
+![Example of missing streets](pics/roads.png)
+**Ref:** [Gooogle street view matedata api](https://developers.google.com/maps/documentation/streetview/metadata)
