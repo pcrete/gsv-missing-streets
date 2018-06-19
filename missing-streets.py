@@ -124,3 +124,6 @@ for feature in data['features']:
 
 
 missing_all.update({"type": "FeatureCollection"})
+
+with open(os.path.join('data', 'v2', 'missing-all.geojson'), 'w') as FILE: 
+    json.dump(missing_all, FILE, indent=4)
