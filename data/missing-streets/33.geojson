@@ -1,0 +1,78 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.44568747,
+                        8.42764182
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 495155444,
+            "properties": {
+                "highway": "service",
+                "source": "DigitalGlobe-Standard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.44538674,
+                        8.42804371
+                    ],
+                    [
+                        99.44485005,
+                        8.42798087
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 495155445,
+            "properties": {
+                "highway": "service",
+                "source": "DigitalGlobe-Standard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.42431285,
+                        8.45042203
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 498972118,
+            "properties": {
+                "highway": "unclassified",
+                "source": "DigitalGlobe-Standard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.44673738,
+                        8.42340426
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 531756085,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

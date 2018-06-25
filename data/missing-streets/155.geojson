@@ -1,0 +1,986 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.93022207,
+                        8.80832019
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 496787448,
+            "properties": {
+                "highway": "unclassified",
+                "source": "DigitalGlobe-Standard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91989166,
+                        8.83345339
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668322,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92189576,
+                        8.84250515
+                    ],
+                    [
+                        99.92121868,
+                        8.84239124
+                    ],
+                    [
+                        99.92050353,
+                        8.84228074
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668326,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91986484,
+                        8.83688645
+                    ],
+                    [
+                        99.92031428,
+                        8.8369103
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668343,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91930925,
+                        8.8480661
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668344,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.9207383,
+                        8.85472839
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668346,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.9204667,
+                        8.85578406
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668347,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.90865623,
+                        8.85030013
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668366,
+            "properties": {
+                "import": "yes",
+                "highway": "service",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91423726,
+                        8.85134629
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668368,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.90960969,
+                        8.83306406
+                    ],
+                    [
+                        99.90859396,
+                        8.83298598
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507668415,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92037668,
+                        8.83117313
+                    ],
+                    [
+                        99.92020062,
+                        8.83161555
+                    ],
+                    [
+                        99.92002964,
+                        8.83203191
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672354,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92044574,
+                        8.83264947
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672358,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92460862,
+                        8.82342125
+                    ],
+                    [
+                        99.92529859,
+                        8.82345478
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672359,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92447109,
+                        8.82352296
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672361,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92545258,
+                        8.82423276
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672362,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92645108,
+                        8.82457509
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672363,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92493342,
+                        8.82426649
+                    ],
+                    [
+                        99.92441246,
+                        8.82513476
+                    ],
+                    [
+                        99.92396772,
+                        8.8251068
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672364,
+            "properties": {
+                "import": "yes",
+                "highway": "service",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92431054,
+                        8.82412968
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672366,
+            "properties": {
+                "import": "yes",
+                "highway": "service",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.90432437,
+                        8.81806286
+                    ],
+                    [
+                        99.90427135,
+                        8.81850985
+                    ],
+                    [
+                        99.90421834,
+                        8.81895683
+                    ],
+                    [
+                        99.90412119,
+                        8.81969363
+                    ],
+                    [
+                        99.90405858,
+                        8.82013926
+                    ],
+                    [
+                        99.90395318,
+                        8.82071237
+                    ],
+                    [
+                        99.90363726,
+                        8.82250537
+                    ],
+                    [
+                        99.90360773,
+                        8.82295445
+                    ],
+                    [
+                        99.90357788,
+                        8.82381236
+                    ],
+                    [
+                        99.90357486,
+                        8.82426241
+                    ],
+                    [
+                        99.90356586,
+                        8.82525831
+                    ],
+                    [
+                        99.9035992,
+                        8.82598797
+                    ],
+                    [
+                        99.9037009,
+                        8.82690681
+                    ],
+                    [
+                        99.90251833,
+                        8.8310878
+                    ],
+                    [
+                        99.90222873,
+                        8.83154826
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672371,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91523315,
+                        8.82171679
+                    ],
+                    [
+                        99.9156821,
+                        8.82174867
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672373,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91404033,
+                        8.80410755
+                    ],
+                    [
+                        99.91449027,
+                        8.80409581
+                    ],
+                    [
+                        99.91336689,
+                        8.80411037
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672375,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91247583,
+                        8.81730137
+                    ],
+                    [
+                        99.91292306,
+                        8.81735184
+                    ],
+                    [
+                        99.91337028,
+                        8.81740231
+                    ],
+                    [
+                        99.91381751,
+                        8.81745278
+                    ],
+                    [
+                        99.91426474,
+                        8.81750324
+                    ],
+                    [
+                        99.91471197,
+                        8.81755371
+                    ],
+                    [
+                        99.9151592,
+                        8.81760418
+                    ],
+                    [
+                        99.91560642,
+                        8.81765465
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672376,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92882186,
+                        8.79484889
+                    ],
+                    [
+                        99.92931704,
+                        8.79505277
+                    ],
+                    [
+                        99.92972208,
+                        8.79524913
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672378,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.90698237,
+                        8.81610776
+                    ],
+                    [
+                        99.90698053,
+                        8.81655781
+                    ],
+                    [
+                        99.9070148,
+                        8.81548171
+                    ],
+                    [
+                        99.90711882,
+                        8.81459
+                    ],
+                    [
+                        99.90719179,
+                        8.81148953
+                    ],
+                    [
+                        99.90718399,
+                        8.81193947
+                    ],
+                    [
+                        99.90717618,
+                        8.8123894
+                    ],
+                    [
+                        99.90716838,
+                        8.81283934
+                    ],
+                    [
+                        99.90716057,
+                        8.81328927
+                    ],
+                    [
+                        99.90715277,
+                        8.8137392
+                    ],
+                    [
+                        99.90718225,
+                        8.8108724
+                    ],
+                    [
+                        99.90713551,
+                        8.81041681
+                    ],
+                    [
+                        99.90716113,
+                        8.80896183
+                    ],
+                    [
+                        99.90719445,
+                        8.80941065
+                    ],
+                    [
+                        99.90705499,
+                        8.8081508
+                    ],
+                    [
+                        99.90623874,
+                        8.80769685
+                    ],
+                    [
+                        99.90668707,
+                        8.80765711
+                    ],
+                    [
+                        99.90577905,
+                        8.80645069
+                    ],
+                    [
+                        99.9057228,
+                        8.80689718
+                    ],
+                    [
+                        99.90566655,
+                        8.80734367
+                    ],
+                    [
+                        99.90585738,
+                        8.80588085
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672381,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91352748,
+                        8.82191373
+                    ],
+                    [
+                        99.91397175,
+                        8.82198546
+                    ],
+                    [
+                        99.91441603,
+                        8.8220572
+                    ],
+                    [
+                        99.91151397,
+                        8.82145227
+                    ],
+                    [
+                        99.91195075,
+                        8.82156075
+                    ],
+                    [
+                        99.91238752,
+                        8.82166922
+                    ],
+                    [
+                        99.91282429,
+                        8.8217777
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672385,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92182907,
+                        8.82097332
+                    ],
+                    [
+                        99.92167768,
+                        8.82147328
+                    ],
+                    [
+                        99.92156116,
+                        8.82190796
+                    ],
+                    [
+                        99.92149379,
+                        8.82235431
+                    ],
+                    [
+                        99.92142679,
+                        8.82279933
+                    ],
+                    [
+                        99.92131102,
+                        8.82342322
+                    ],
+                    [
+                        99.92122274,
+                        8.82386455
+                    ],
+                    [
+                        99.92118022,
+                        8.82459851
+                    ],
+                    [
+                        99.92055693,
+                        8.82493864
+                    ],
+                    [
+                        99.91974115,
+                        8.82561863
+                    ],
+                    [
+                        99.91912337,
+                        8.82638668
+                    ],
+                    [
+                        99.91918628,
+                        8.8277494
+                    ],
+                    [
+                        99.9196882,
+                        8.82781327
+                    ],
+                    [
+                        99.92023306,
+                        8.82791651
+                    ],
+                    [
+                        99.92067353,
+                        8.82800872
+                    ],
+                    [
+                        99.92074602,
+                        8.82879239
+                    ],
+                    [
+                        99.92064474,
+                        8.82923089
+                    ],
+                    [
+                        99.92054346,
+                        8.82966938
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672386,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.92664744,
+                        8.79764111
+                    ],
+                    [
+                        99.92663138,
+                        8.7963284
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672388,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.91407304,
+                        8.81189915
+                    ],
+                    [
+                        99.91461493,
+                        8.81198641
+                    ],
+                    [
+                        99.91506056,
+                        8.81204901
+                    ],
+                    [
+                        99.91572948,
+                        8.81216232
+                    ],
+                    [
+                        99.91617215,
+                        8.81224384
+                    ],
+                    [
+                        99.91661483,
+                        8.81232535
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672394,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.9262426,
+                        8.81857532
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507672397,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.88201524,
+                        8.81680749
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507673466,
+            "properties": {
+                "import": "yes",
+                "highway": "service",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.88215154,
+                        8.80425846
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507673475,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.8739493,
+                        8.80933558
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 507673493,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.89240879,
+                        8.77875924
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 508232498,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.88208991,
+                        8.78450133
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 508242189,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.89996905,
+                        8.78855576
+                    ],
+                    [
+                        99.90053298,
+                        8.78879847
+                    ],
+                    [
+                        99.90101357,
+                        8.78898918
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 559068601,
+            "properties": {
+                "highway": "tertiary",
+                "ref": "\u0e19\u0e28.3007"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

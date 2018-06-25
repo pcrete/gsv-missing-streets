@@ -1,0 +1,25 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        100.33539933,
+                        7.93300196
+                    ],
+                    [
+                        100.33565152,
+                        7.93259233
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 152216022,
+            "properties": {
+                "highway": "residential"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

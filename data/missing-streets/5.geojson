@@ -1,0 +1,74 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.49513448,
+                        8.49475163
+                    ],
+                    [
+                        99.49506116,
+                        8.49519566
+                    ],
+                    [
+                        99.49470063,
+                        8.49612078
+                    ],
+                    [
+                        99.49448516,
+                        8.49651585
+                    ],
+                    [
+                        99.49365089,
+                        8.49821033
+                    ],
+                    [
+                        99.49359153,
+                        8.49865824
+                    ],
+                    [
+                        99.49354234,
+                        8.49944296
+                    ],
+                    [
+                        99.49307231,
+                        8.50008749
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 531790368,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.4927349,
+                        8.49813464
+                    ],
+                    [
+                        99.49353011,
+                        8.49819386
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 531790373,
+            "properties": {
+                "import": "yes",
+                "surface": "unpaved",
+                "highway": "track",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

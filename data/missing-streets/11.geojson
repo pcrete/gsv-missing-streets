@@ -1,0 +1,22 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.42431285,
+                        8.45042203
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 498972118,
+            "properties": {
+                "highway": "unclassified",
+                "source": "DigitalGlobe-Standard"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

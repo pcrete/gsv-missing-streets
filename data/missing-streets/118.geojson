@@ -1,0 +1,66 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.95876886,
+                        8.06735
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 495991770,
+            "properties": {
+                "highway": "residential",
+                "source": "DigitalGlobe-Standard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.95796807,
+                        8.06848391
+                    ],
+                    [
+                        99.95841715,
+                        8.06851362
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 532334976,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        99.95741116,
+                        8.0688911
+                    ],
+                    [
+                        99.95731181,
+                        8.06947396
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 532334978,
+            "properties": {
+                "import": "yes",
+                "highway": "residential",
+                "source": "digitalglobe"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

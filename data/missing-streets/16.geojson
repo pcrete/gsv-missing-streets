@@ -1,0 +1,41 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        100.16357658,
+                        8.50040743
+                    ],
+                    [
+                        100.16384377,
+                        8.50076967
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 555907115,
+            "properties": {
+                "highway": "residential"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        100.15834217,
+                        8.50314686
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 555907119,
+            "properties": {
+                "highway": "track"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
