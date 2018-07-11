@@ -3,7 +3,14 @@
 The **Street View API metadata** requests provide data about Street View panoramas. Using the metadata, you can find out if a Street View image is available at a given location which **No quota is consumed** .
 
 
-### Example of metadata
+## Missing Streets
+Overall missing-streets in Nakhon-si-thammarat province
+![Missing-streets](pics/missing-streets.png  "Missing Streets")
+Left (an available of Google street view images), Right (linestrings of the missing streets)
+![Missing-streets](pics/gsv-missing-streets.png  "Missing Streets")
+
+
+## Example of metadata
 * street view available
 ```json
 {"copyright": "© Google, Inc.",
@@ -17,10 +24,17 @@ The **Street View API metadata** requests provide data about Street View panoram
 {"status": "ZERO_RESULTS"}
 ```
 
-### Example of missing streets
-* Original points (left) & Missing Points (right), version 1
+## Methods
+*  **Method 1** Original points (left) & Missing Points (right)
 ![Example of missing streets](pics/missing-points.png)
 
-* Linestring with road properites, version 2
+* **Method 2**: Linestring with road properites
 ![Example of missing streets](pics/roads.png)
-**Ref:** [Gooogle street view matedata api](https://developers.google.com/maps/documentation/streetview/metadata)
+
+
+* **Method 3**: using Boxes
+![Example of missing streets](pics/missing-boxes.png)
+![Example of missing streets](pics/missing-boxes-radius.png)
+
+
+**Ref** [Gooogle street view matedata api](https://developers.google.com/maps/documentation/streetview/metadata)
